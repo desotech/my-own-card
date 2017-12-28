@@ -24,7 +24,6 @@
         android:id="@+id/textView" />
 
     <TextView
-        android:id="@+id/button_yes"
         android:layout_width="80dp"
         android:layout_height="50dp"
         android:layout_alignParentBottom="true"
@@ -40,7 +39,6 @@
         />
 
     <TextView
-        android:id="@+id/button_no"
         android:layout_width="80dp"
         android:layout_height="50dp"
         android:layout_alignParentBottom="true"
